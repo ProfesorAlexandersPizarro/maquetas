@@ -1,0 +1,43 @@
+body{
+    background: #4ebbca;
+}
+#contenedor{
+    height: 1000px;
+    width: 1200px;
+    background: rgb(168, 175, 191);
+    margin:auto;
+}
+.header{
+    height: 100px;
+    width: 1200px;
+    background:#c8dfe2;
+}
+.contenedor-secciones{
+    width: 1200px;
+    height: 400px;
+   
+}
+.seccion1{
+    width: 600px;
+    height: 400px;
+
+    background: blue;
+    float: left;
+}
+.seccion2{
+    width: 600px;
+    height: 400px;
+    background: rgb(132, 255, 0);
+    float: right;
+}
+.seccion3{
+    width: 1200px;
+    height: 350px;
+    background: brown;
+}
+.fotter{
+    width: 1200px;
+    height: 150px;
+    background-color: blueviolet;
+}
+
